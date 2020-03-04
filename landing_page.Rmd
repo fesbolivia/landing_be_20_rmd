@@ -1,0 +1,32 @@
+---
+title: Bolivia electoral
+output: 
+  flexdashboard::flex_dashboard:
+    theme: readable
+---
+```{r, include=FALSE, fig.width=5, fig.height=5}
+knitr::opts_knit$set(self.contained = T)
+library(fontawesome)
+Sys.getlocale()
+```
+
+<br>
+<center><img src="img/vote_1.png" width="100" height="100"></center>
+<h1><center>**Bolivia electoral**</center></h1>
+<br>
+<br>
+
+Esta iniciativa busca recopilar información relevante para el proceso electoral en Bolivia, de cara a las elecciones generales del 3 de mayo de 2020.
+
+Para las elecciones generales de octubre de 2019, el proyecto reunió cifras de más de 55 encuestas de intención de voto desde noviembre de 2016 hasta octubre del 2019, difundidas en más de 19 medios y producidas por 8 encuestadoras. Asimismo el proyecto acopió información sobre el padrón electoral y los programas de Gobierno. Para estas elecciones se tiene el mismo propósito.
+
+Los datos publicados pueden ser usados por terceros, siempre y cuando se cite la fuente [www.boliviaelectoral.com](http://boliviaelectoral.com/)
+
+
+<center> [`r fa("external-link-alt", fill = "steelblue")` Ir a elecciones generales 2020](http://boliviaelectoral.com/)</center>
+<center> [`r fa("external-link-alt", fill = "steelblue")` Ir a elecciones generales 2019](http://boliviaelectoral.com/)</center>
+
+<br>
+La idea del proyecto es de Amaru Villanueva y se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org
+
+

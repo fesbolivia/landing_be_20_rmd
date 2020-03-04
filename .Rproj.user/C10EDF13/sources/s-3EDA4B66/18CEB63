@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583356541349.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3626423640",
+    "id" : "18CEB63",
+    "lastKnownWriteTime" : 1583356573,
+    "last_content_update" : 1583356573049,
+    "path" : "~/Documents/consultorias/landing_be_20_rmd/landing_page.Rmd",
+    "project_path" : "landing_page.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
