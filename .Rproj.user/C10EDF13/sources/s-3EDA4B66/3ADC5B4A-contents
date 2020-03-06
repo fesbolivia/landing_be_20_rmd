@@ -24,7 +24,7 @@ Los datos publicados pueden ser usados por terceros, siempre y cuando se cite la
 
 
 <center> [`r fa("external-link-alt", fill = "steelblue")` Ir a elecciones generales 2020](https://fesbolivia.github.io/be_20_rmd/)</center>
-<center> [`r fa("external-link-alt", fill = "steelblue")` Ir a elecciones generales 2019](http://boliviaelectoral.com/)</center>
+<center> [`r fa("external-link-alt", fill = "steelblue")` Ir a elecciones generales 2019](https://fesbolivia.github.io/be_19_rmd/)</center>
 
 <br>
 La idea del proyecto es de Amaru Villanueva y se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org

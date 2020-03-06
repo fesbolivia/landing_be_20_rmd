@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3003501314",
+    "hash" : "1646563044",
     "id" : "3ADC5B4A",
-    "lastKnownWriteTime" : 1583460686,
-    "last_content_update" : 1583460686516,
+    "lastKnownWriteTime" : 1583461265,
+    "last_content_update" : 1583461265127,
     "path" : "~/Documents/consultorias/landing_be_20_rmd/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "25,129",
+        "cursorPosition" : "26,129",
         "scrollLine" : "21"
     },
     "read_only" : false,
