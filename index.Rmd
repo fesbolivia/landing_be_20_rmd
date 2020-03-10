@@ -32,6 +32,6 @@ Los datos publicados pueden ser usados por terceros, siempre y cuando se cite la
 <br>
 <br>
 <br>
-La idea del proyecto es de Amaru Villanueva y se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org
+El proyecto se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org
 
 
